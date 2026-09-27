@@ -1,1 +1,2 @@
 Hello ! This is my first line in Git.
+This is my new edit.
